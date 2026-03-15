@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Dataset (large files)
+data/
+datasets/reside6k/
+datasets/RESIDE-IN/
+
+# Results (large or generated)
+results/
+*.csv
+
+# Model checkpoints
+saved_models/
+*.pth
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

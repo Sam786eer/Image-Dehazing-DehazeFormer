@@ -1,0 +1,11 @@
+Final Project Results
+
+Model: DehazeFormer-B
+Dataset: RESIDE-IN (prepared subset)
+Training Images: 6000 pairs
+Testing Images: 1000 pairs
+Epochs: 10
+
+Final Test Results:
+- Average PSNR: 32.62 dB
+- Average SSIM: 0.9808
