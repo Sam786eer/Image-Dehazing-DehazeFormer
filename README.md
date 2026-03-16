@@ -42,3 +42,5 @@ python test.py --model dehazeformer-b --dataset RESIDE-IN --exp reside6k
 
 ## Author
 - Mohammad SAMEER
+- Prathmesh Bogar
+- Soham Naukudkar
