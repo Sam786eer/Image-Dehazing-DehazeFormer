@@ -41,6 +41,6 @@ python test.py --model dehazeformer-b --dataset RESIDE-IN --exp reside6k
 - Improve inference efficiency in limited-resource environments
 
 ## Author
-- Mohammad SAMEER
-- Prathmesh Bogar
-- Soham Naukudkar
+- MOHAMMAD SAMEER
+- PRATHMESH BOGAR
+- SOHAM NAUKUDKAR
