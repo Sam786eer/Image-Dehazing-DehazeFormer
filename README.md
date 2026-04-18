@@ -1,8 +1,8 @@
 # Single Image Dehazing Using DehazeFormer-B
 
 # Video Presentation
-Phase 1 : https://drive.google.com/file/d/1vKsQb1cWvJf33-5eFGYfsvEUR2VQB1pA/view?usp=sharing
-Phase 2 : https://drive.google.com/drive/folders/1T6arN-D3O-2ikAIVfktbxQySF4zEPFMy?usp=sharing
+- Phase 1 : https://drive.google.com/file/d/1vKsQb1cWvJf33-5eFGYfsvEUR2VQB1pA/view?usp=sharing
+- Phase 2 : https://drive.google.com/drive/folders/1T6arN-D3O-2ikAIVfktbxQySF4zEPFMy?usp=sharing
 ## Project Overview
 This project implements single image dehazing using the DehazeFormer-B model on a prepared subset of the RESIDE-IN dataset.
 
